@@ -1,0 +1,12 @@
+{
+  "name": "solidity-merkle-airdrop-minimal",
+  "version": "1.0.0",
+  "description": "Minimal Merkle Tree ERC20 Token Airdrop Contract",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@openzeppelin/contracts": "^5.0.1",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.4"
+  }
+}
